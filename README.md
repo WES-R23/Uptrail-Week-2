@@ -2,6 +2,7 @@
 Sales and customer behaviour analysis — data cleaning, feature engineering in Python and Q2 business insights for a fictional e-commerce business
 
 **Project Overview**
+
 Analysis of Q2 2025 sales and customer behaviour data for Uptrail, a fictional SaaS business. Three raw datasets were cleaned, merged into a master table and analysed to answer five business questions around revenue, discounting, customer loyalty and delivery performance.
 **Headline figures**:
 
