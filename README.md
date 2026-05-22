@@ -20,6 +20,7 @@ Week_2_Report.docx — business insights report with findings and recommendation
 
 
 **Cleaning & Preparation**
+
 All three datasets contained quality issues addressed before analysis:
 
 Inconsistent casing and misspellings across delivery_status, loyalty_tier, gender and payment_method — standardised using .str.strip(), .str.title() and .replace()
@@ -31,6 +32,7 @@ Quantities recorded as words ("three", "five") converted to integers
 
 
 **Feature Engineering**
+
 Four new columns derived to support analysis:
 
 revenue — unit price adjusted for discount applied
